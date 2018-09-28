@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Loyalty Backend">
+    <serverData>
+      <paths name="Loyalty Backend">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="backend/admin_3476" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
